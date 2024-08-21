@@ -1,0 +1,9 @@
+.dockerignorenode_modules
+dist
+test
+Dockerfile
+docker-compose*
+.git
+.gitignore
+README.md
+*.log
